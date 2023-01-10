@@ -15,4 +15,3 @@ We have created a flask application that connects your MetaMask Wallet account f
 ![image](https://user-images.githubusercontent.com/73640313/211513702-40147350-49df-4f93-9c41-48af31b87453.png)
 
 ![image](https://user-images.githubusercontent.com/73640313/211513843-98bc2864-04d0-4c94-972e-fca4c7fde2f1.png)
-
